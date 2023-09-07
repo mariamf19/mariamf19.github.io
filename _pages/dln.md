@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 
-## This is my chatGPT-generated and self-edited narrative.
+## This is my chatGPT-generated and self-edited DLN for Fall '23.
 
 
 Title: Navigating the Digital Wilderness: My Journey into Digital Humanities
