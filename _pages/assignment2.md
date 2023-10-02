@@ -1,7 +1,6 @@
 ---
 title: "Cultural Heritage by the Numbers"
 permalink: /assignment2/
-author_profile: false
 ---
 
 
