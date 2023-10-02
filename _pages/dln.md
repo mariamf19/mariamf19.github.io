@@ -24,4 +24,5 @@ My current abilities have grown significantly, but I am aware of how much more t
 
 Furthermore, I am intrigued by the ethical implications of digital humanities. As we navigate the digital landscape, questions about data privacy, biases in algorithms, and the accessibility of digital content are more relevant than ever. I hope to explore these issues deeply and contribute to discussions on responsible and equitable digital practices.
 
-In conclusion, my journey in digital humanities has transformed my digital skills. I've explored content creation, social interaction, research data management, and analysis. While I've made significant progress, I'm eager to master data analysis, navigate digital ethics, and continuously adapt. This course has opened my eyes to the vast potential and responsibilities of digital literacy, and I'm excited to continue this evolving journey.
+In conclusion, my journey in digital humanities has transformed my digital skills. I've explored content creation, social interaction, research data management, and analysis. While I've made significant progress, I'm eager to master data analysis, navigate digital ethics, and continuously adapt. This course has opened my eyes to the vast potential and responsibilities of digital literacy and I'm excited to continue this evolving journey.
+
