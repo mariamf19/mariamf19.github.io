@@ -24,24 +24,24 @@ The metadata provided us with crucial details about the artist, culture, title, 
 
 It was very hard to speculate on the most and least viewed objects. The first reason is the size of the database. There are so many objects in total and it is already hard for people to browse all of them, so evaluating them was even harder. Also, because of the algorithm complexity, it will be very intensive to process all the data. The second reason can be the lack of direct visibility. The API’s metadata often contains information like titles, descriptions, and links, but there is no direct information about how often this information has been viewed. 
 
-###Most viewed Persian:    
+### Most viewed Persian:    
 [21380	Bahram Gur Fights the Horned Wolf (painting, verso; text, recto), illustrated folio from a manuscript of the Great Ilkhanid Shahnama (Book of Kings) Persian](https://www.harvardartmuseums.org/collections/object/169542)
 
-###Least viewed Persian:
+### Least viewed Persian:
 [0  Folio from an Illustrated Manuscript of a Compendium of Knowledge (Jung), made for Shah Sulayma Persian](https://www.harvardartmuseums.org/collections/object/329118)
 
 
-###Most viewed Indian:    
+### Most viewed Indian:    
 [4408	Manuscript of the 'Aja'ib al-makhluqat (Wonders of Creation) of Qazwini, with 253 paintings	Unknown Artist	Indian	](https://www.harvardartmuseums.org/collections/object/216430)
 
-###Least viewed Indian:
+### Least viewed Indian:
 [0  Folio from an Illustrated Manuscript of a Compendium of Knowledge (Jung), made for Shah Sulayma Persian](https://www.harvardartmuseums.org/collections/object/329118)
 
 
-###Most viewed Turkish:    
+### Most viewed Turkish:    
 [1569	Hexagonal tile with floral and cloud pattern	Turkish	](https://www.harvardartmuseums.org/collections/object/215763)
 
-###Least viewed Turkish:
+### Least viewed Turkish:
 [0	Cover	Turkish](https://www.harvardartmuseums.org/collections/object/214509)
 
 The numbers of the most and least viewed objects surprise us greatly. All three least-viewed objects from these cultures have zero views. However, as we browse through the basic information of these objects, we think they all demonstrate their artistic value and refined details, and they also belong to a relatively modern time period. After looking at these least-viewed items, we believe the reason is poor visibility; the websites may be overshadowed by other content. Another possible reason could be the lack of promotion, and it's possible that these objects are not part of the collection exhibition. As for the most-viewed items, the most-viewed page for Persian culture has been visited 21,380 times, which exceeds our expectations. For Indian culture, the most-viewed objects have been viewed 4,408 times. We can observe a significant gap in the numbers even though the total collection for both cultures is the same. We believe this difference in numbers is attributed to the kind of research people are conducting. Taking "Bahram Gur Fights the Horned Wolf" as an example, this painting reveals the cosmopolitanism of the Ilkhanid court in Tabriz, a place teeming with merchants, missionaries, and diplomats from as far away as Europe and China. Individuals conducting research on trade and diplomacy of European countries and China may all use this piece as a reference. 
