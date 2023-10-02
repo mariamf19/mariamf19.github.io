@@ -5,11 +5,11 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
-  - title: "Cultural Heritage by the Numbers"
-    url: /assignment2/
   - title: "Digital Literacy Narrative"
     url: /dln/
+  - title: "Cultural Heritage by the Numbers"
+    url: /assignment2/
+  - title: "About"
+    url: /about/
 
     
