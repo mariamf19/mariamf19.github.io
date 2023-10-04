@@ -73,7 +73,7 @@ The bar graph shows us the number of artworks by accession year.
 
 ![Turkish Word Cloud](https://keep.google.com/u/0/media/v2/1MHvObo2JQnRfOidwJnT28xjyt91syQ-hdVbpZ4Jilw0g5m4fIAuAvJ_IeyG41_TY/1YF1eE9vuvZWwUpJ0nzz7ouC8iemS7REL7MkobpCzxiPx0zANq3SGMUGMexOmCCRR?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)
 
-![Indian Word Cloud](https://keep.google.com/u/0/media/v2/1GwoSQUmCP_lF2QkyfXpeD-na7pFg5VeNn1KBL-uvgyRu7DEXU6UgoPeYlPJX_Dhz/1XAP1hsOI6CI5yXCM6ePzOnlPnqbMz0t8Myam-k7KSQZ8GmsshAVQDq8Rtdc2d0c?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)
+![Indian Word Cloud](file:///Users/mariam/Downloads/indianwc.png)
 
 
 We notice that in the Persian word cloud, the word “manuscript” is the most prominent. By delving further into this aspect, it is worth noting that Persian manuscripts, primarily amassed in the early 20th century, owe their preservation to the distinguished Harvard alumnus, Bernard Berenson (1865–1959). Berenson cherished these invaluable works at his residence, Villa I Tatti, in Florence.  In a testament to his generosity and commitment to scholarship, he bequeathed this remarkable collection to Harvard, which has since become the Harvard University Center for Italian Renaissance Studies.
