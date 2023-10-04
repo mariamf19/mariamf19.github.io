@@ -71,7 +71,7 @@ The bar graph shows us the number of artworks by accession year.
 
 ![Persian Word Cloud](https://keep.google.com/u/0/media/v2/1gOVZxG7KlY3_1CNaAv_vBTlRNUE_IXXloR9EK_Ckjik6fiN9bfEgens89z5Ts_yU/1dZTv1U9_YyZeB28UY2aLeHUkIoFmaV5oTMGx5--A8M2pgATFNUGGxsKtNap5c4w?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)
 
-![Turkish Word Cloud](https://keep.google.com/u/0/media/v2/1MHvObo2JQnRfOidwJnT28xjyt91syQ-hdVbpZ4Jilw0g5m4fIAuAvJ_IeyG41_TY/1YF1eE9vuvZWwUpJ0nzz7ouC8iemS7REL7MkobpCzxiPx0zANq3SGMUGMexOmCCRR?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)
+![Turkish Word Cloud](file:///Users/mariam/Downloads/turkwc.jpg)
 
 ![Indian Word Cloud](file:///Users/mariam/Downloads/indianwc.png)
 
