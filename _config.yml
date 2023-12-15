@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Mariam Fatima"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "My Blog for Introduction to Digital Humanities"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
