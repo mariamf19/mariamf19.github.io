@@ -57,24 +57,23 @@ Overall, we can see there is a really small amount of Turkish artwork, comprisin
 
 We used the csv file to come up with visual representations of the data. 
 
-![](/assets/images/table2.png)
+![](https://keep.google.com/u/0/media/v2/1ltdOGfkfupESW23x7mqrAAVPLkhJut8PMDAeT0Xv4l74q_Op0Ra878W92aIXsq4/1nbYzDlNLINOMGSio66UNphb3hLRXHNaXQEIUnVO7WrLFraqtc6FCNibUUtip?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)
 
-
-![](/assets/images/table3.png)
+![](https://keep.google.com/u/0/media/v2/1RiTb0C0NGLkHmZOmHdQ9WfqScWSQ3wPFAdM_l4gmUT8kXVtjSs_O6Y3FjvGR6JY/1OYsfGZlqVho2hv505fvP23GofiTy4NjnaL1qRKeBInsW4_QWJ-9j4MojH37LiCQ?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)
 
 The table and graph above shows the number of artworks present on the HAM website for each of the cultures. 
 
-![](/assets/images/table.png)
+![](https://keep.google.com/u/0/media/v2/1PUcm6e-7nsCk8Vp7wfYCeuxSZR_ayuuhEX9WqQZLitSVRN3SO3vTodFbUZE2s8bk/1724n6O8wwpLNdTfaUbttq2gp6vTqlElFr4-8HWXZx70eBCxMoPNMaiQf18I9wYg?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)
 
 The bar graph shows us the number of artworks by accession year.
 
 ### Word Clouds:
 
-![Persian Word Cloud](/assets/images/persianwc.jpg)
+![Persian Word Cloud](https://keep.google.com/u/0/media/v2/1gOVZxG7KlY3_1CNaAv_vBTlRNUE_IXXloR9EK_Ckjik6fiN9bfEgens89z5Ts_yU/1dZTv1U9_YyZeB28UY2aLeHUkIoFmaV5oTMGx5--A8M2pgATFNUGGxsKtNap5c4w?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)
 
-![Turkish Word Cloud](/assets/images/turkwc.jpg)
+![Turkish Word Cloud](file:///Users/mariam/Downloads/turkwc.jpg)
 
-![Indian Word Cloud](/assets/images/indianwc.jpg)
+![Indian Word Cloud](file:///Users/mariam/Downloads/indianwc.png)
 
 
 We notice that in the Persian word cloud, the word “manuscript” is the most prominent. By delving further into this aspect, it is worth noting that Persian manuscripts, primarily amassed in the early 20th century, owe their preservation to the distinguished Harvard alumnus, Bernard Berenson (1865–1959). Berenson cherished these invaluable works at his residence, Villa I Tatti, in Florence.  In a testament to his generosity and commitment to scholarship, he bequeathed this remarkable collection to Harvard, which has since become the Harvard University Center for Italian Renaissance Studies.
